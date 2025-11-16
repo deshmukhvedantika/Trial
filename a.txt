@@ -1,1 +1,2 @@
 This file name is a.txt 
+I am adding a new line.
